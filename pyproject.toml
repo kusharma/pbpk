@@ -3,7 +3,7 @@ name = "pbpk"
 version = "0.1.0"
 description = "Physiologically-Based Pharmacokinetic model for Urolithin A."
 readme = "README.md"
-authors = [{name = "Generated Codebase", email = "kunal.nit90@gmail.come.com"}]
+authors = [{name = "kusharma", email = "kunal.nit90@gmail.come.com"}]
 license = {text = "MIT"}
 requires-python = ">=3.10"
 
@@ -30,3 +30,6 @@ py-modules = [
     "dissolution_modes",
     "simulation",
 ]
+
+[project.urls]
+Acknowledgment = "This project extends the PBPK model from Georg Aichinger et al. (published study). All original scientific credit remains with the authors."

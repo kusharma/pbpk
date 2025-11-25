@@ -2,6 +2,8 @@ Urolithin A PBPK modeling toolkit: simulate, analyze, and visualize UA kinetics 
 
 Model and tooling for Urolithin A PBPK predictions in humans, capturing UA and UAGluc dynamics, dissolution, and enterohepatic recycling. Includes a CLI entry point plus sweep scripts so you can explore ADME sensitivity with `uv`-managed Python.
 
+Acknowledgment- This work is inspired by the PBPK model of Georg Aichinger et al. 2023 (PMID: 37195009) and represents an independent re-implementation and mathematical extension for research use.
+
 ## Contents
 
 - `Directory structure` – quick tour of source, data, and results
