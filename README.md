@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/DALLE.png" alt="PBPK Modeling of Urolithin A - Kunal Sharma" width="800"/>
+</p>
+
 Urolithin A PBPK modeling toolkit: simulate, analyze, and visualize UA kinetics and sensitivity in humans.
 
 Model and tooling for Urolithin A PBPK predictions in humans, capturing UA and UAGluc dynamics, dissolution, and enterohepatic recycling. Includes a CLI entry point plus sweep scripts so you can explore ADME sensitivity with `uv`-managed Python.
