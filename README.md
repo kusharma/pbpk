@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/pbpk.png" alt="PBPK Modeling of Urolithin A - Kunal Sharma" width="800"/>
+  <img src="images/pbpk.png" alt="PBPK Modeling of Urolithin A - Kunal Sharma" width="600" height ="400"/>
 </p>
 
 Urolithin A PBPK modeling toolkit: simulate, analyze, and visualize UA kinetics and sensitivity in humans.
